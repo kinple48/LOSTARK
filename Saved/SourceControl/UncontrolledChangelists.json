@@ -21,6 +21,15 @@
 				"C:/Unreal/LOSTARK/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/0F/2PZKJAC7AB07U61OQ55Z5K.uasset",
 				"C:/Unreal/LOSTARK/Content/TopDown/enemy/AnimNotify/ANS_Leg_Attack.uasset",
 				"C:/Unreal/mainproject/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Unreal/mainproject/Content/TopDown/enemy/ABP_Enemy_2.uasset",
+				"C:/Unreal/mainproject/Content/TopDown/enemy/BP_Enemy.uasset",
+				"C:/Unreal/mainproject/Content/TopDown/enemy/Animation/MutantJumpAttack.uasset",
+				"C:/Unreal/mainproject/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/0F/2PZKJAC7AB07U61OQ55Z5K.uasset",
+				"C:/Unreal/mainproject/Content/TopDown/enemy/Animation/JumpAttack_Montage.uasset",
+				"C:/Unreal/mainproject/Content/TopDown/enemy/Animation/JustGuard_Montage.uasset",
+				"C:/Unreal/mainproject/Content/TopDown/Blueprints/NewBlueprint.uasset",
+				"C:/Unreal/mainproject/Content/TopDown/components/BPC_enemy_statsystem.uasset",
+				"C:/Unreal/mainproject/Content/TopDown/enemy/AnimNotify/ANS_JustGuard.uasset",
 				"C:/Unreal/LOSTARK/Content/TopDown/enemy/Animation/MutantAttack7.uasset",
 				"C:/Unreal/LOSTARK/Content/TopDown/enemy/Animation/MutantAttack8.uasset"
 			]
