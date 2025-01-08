@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Unreal/LOSTARKTEAM/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"C:/Unreal/LOSTARK/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Unreal/LOSTARK/Content/TopDown/enemy/BP_Enemy.uasset",
 				"C:/Unreal/LOSTARK/Content/TopDown/enemy/AnimNotify/ANS_Right_Attack.uasset",
